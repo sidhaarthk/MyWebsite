@@ -1,0 +1,18 @@
+baseURL: ""
+languageCode: en-us
+title: Sidhaarth Kumar
+theme: PaperMod
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: >-
+      Welcome to my personal website where I share my projects, thoughts, and ideas.
+  socialIcons:
+    - name: email
+      url: 'https://github.com/sidhaarthkumar'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/sidhaarthkumar'
+    - name: github
+      url: 'https://github.com/sidhaarthkumar'
+    

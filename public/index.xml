@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Sidhaarth Kumar</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Sidhaarth Kumar</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>//localhost:1313/cv/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/cv/</guid>
+      <description>&lt;h1 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h1&gt;
+&lt;p&gt;Download my CV &lt;a href=&#34;static/cv/Sidhaarth_Kumar_CV.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;PhD in Theoretical Physics, XYZ University&lt;/li&gt;
+&lt;li&gt;MSc in Physics, ABC University&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Quantum Mechanics&lt;/li&gt;
+&lt;li&gt;General Relativity&lt;/li&gt;
+&lt;li&gt;Cosmology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&amp;ldquo;Title of Paper 1&amp;rdquo; - Journal Name&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Title of Paper 2&amp;rdquo; - Journal Name&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
