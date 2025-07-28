@@ -13,24 +13,16 @@
       <link>//localhost:1313/cv/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/cv/</guid>
-      <description>&lt;h1 id=&#34;curriculum-vitae&#34;&gt;Curriculum Vitae&lt;/h1&gt;
-&lt;p&gt;Download my CV &lt;a href=&#34;static/cv/Sidhaarth_Kumar_CV.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;PhD in Theoretical Physics, XYZ University&lt;/li&gt;
-&lt;li&gt;MSc in Physics, ABC University&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;research-interests&#34;&gt;Research Interests&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Quantum Mechanics&lt;/li&gt;
-&lt;li&gt;General Relativity&lt;/li&gt;
-&lt;li&gt;Cosmology&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&amp;ldquo;Title of Paper 1&amp;rdquo; - Journal Name&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;Title of Paper 2&amp;rdquo; - Journal Name&lt;/li&gt;
-&lt;/ul&gt;</description>
+      <description>&lt;h2 id=&#34;-education&#34;&gt;👨‍🎓 Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;King&amp;rsquo;s College London&lt;/strong&gt; — &lt;em&gt;PhD Mathematical and Theoretical Physics&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Oct 2025 – Present&lt;/em&gt;&lt;br&gt;
+Specialisation: Applications of Quantum Computing to Field Theory and String Theory&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;University of Cambridge&lt;/strong&gt; — &lt;em&gt;MASt Mathematics&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Oct 2024 – Jun 2025&lt;/em&gt;&lt;br&gt;
+Distinction with Distinguished Performance (86% average)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;University of Oxford&lt;/strong&gt; — &lt;em&gt;MMathPhys&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Oct 2020 – Jul 2024&lt;/em&gt; &lt;br&gt;
+Masters Classification: Distinction (80.2% average)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
